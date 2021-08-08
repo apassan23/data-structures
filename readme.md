@@ -6,7 +6,8 @@ Implementations of various Data Structures in Java.
 
 - Stack
 - Growable Stack with Tight Strategy
-- Circular Linked Lists
+- Circular Linked List
+- Heap
 - Dictionary (with hash tables)
   - Chaining
   - Open Addressing
@@ -14,6 +15,7 @@ Implementations of various Data Structures in Java.
     - Double Hashing
 - Sorting
   - Merge Sort
+  - Heap Sort
 - Knuth Morris Pratt Pattern Searching
 - Binary Search Tree
 - AVL Tree
